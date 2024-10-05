@@ -4,6 +4,8 @@ body {
     display: flex;
     align-items: center;
     height: 100vh;
+   justify-content: center;
+    
 }
 
 .section-container{
@@ -13,9 +15,8 @@ body {
     margin: 0 auto;
     background-color: hsl(0, 0%, 100%);
     padding-top: 15px;
-    padding-bottom: 50px;
+    padding-bottom: 15px;
     border-radius: 15px;
-    
     box-shadow: 10px 15px 10px rgba(0, 0, 0, 0.1);
 
 }
@@ -45,3 +46,19 @@ img {
     font-weight: 400;
     color: hsl(218, 44%, 22%);
 }
+a {
+    text-decoration: none;
+    color: lightblue;
+}
+a:hover {
+    color: rgb(103, 188, 228);
+}
+
+/*DESKTOP STYLING*/
+@media (min-width: 1024px) {
+    .section-container {
+        width: 300px; /* Increases the container width for larger screens */
+        padding: 20px;
+
+
+}}
