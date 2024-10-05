@@ -46,7 +46,7 @@ Styling was where I struggled the most since I wasn’t familiar with a lot of C
 
 
 ```html
-<h1>Some HTML code I'm proud of would be</h1>
+<h1>Some CSS code I'm proud of would be</h1>
 
 
 ```
