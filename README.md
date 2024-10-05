@@ -40,7 +40,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-To be honest, i have only completed project with the help of a tutorial or i just inspect the page itself. This would be my first ever project that i attempted on my own with a few suggestions from CHATGPT on styling. the first thing I did was to create a github repository for the project and hosted it on netlify. I was rather overwhelmed and didn't know where to begin. I just calmed myself down and started with structuring the page. I went in with styling. This is mostly where i struggled because I wasn't really familiar with a lot of CSS properties so I did my research for any style i couldn't quite remember or know.
+To be honest, most of my previous projects were done by following tutorials or inspecting other pages. This project is the first one I’ve attempted on my own, with a few styling suggestions from ChatGPT. The first step I took was creating a GitHub repository and hosting the project on Netlify. At first, I felt pretty overwhelmed and wasn’t sure where to start, but I calmed myself down and began by structuring the page.
+
+Styling was where I struggled the most since I wasn’t familiar with a lot of CSS properties. I ended up doing a lot of research for styles I couldn’t remember or didn’t know. But in the end, I’m proud of pushing through and figuring things out along the way
 
 
 ```html
